@@ -3,7 +3,7 @@
 ### Lista de exercícios 01 - ILP ###  
 #### Turmas ITI11 e ITI12 ####
 
-* Lista de exercícios 01 (https://bit.ly/2OJWwAy)  
-* Slide - Estrutura de um algoritmo no visualg + entrada e saída de dados (https://bit.ly/2K1jdS9)
+* <a href=https://bit.ly/2OJWwAy> Lista de exercícios 01 </a>  
+* <a href=https://bit.ly/2K1jdS9> Slide - Estrutura de um algoritmo no visualg + entrada e saída de dados </a>  
 
 
